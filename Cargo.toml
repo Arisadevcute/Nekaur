@@ -7,3 +7,4 @@ edition = "2024"
 crop = "0.4.3"
 reqwest = { version = "0.13.5", features = ["json"] } # если планируешь парсить JSON
 tokio = { version = "1.54.1", features = ["full"] }
+serde_json = "1"
