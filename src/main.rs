@@ -1,3 +1,5 @@
+mod aurdecctl;
+
 use reqwest;
 use serde_json::Value;
 
