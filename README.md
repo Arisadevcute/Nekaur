@@ -6,14 +6,10 @@
 
 >**config example:**
 
-<code>
-aur_package {
+<code>aur_package {
  "package": "version"
-}
-</code>
+}</code>
 
 **Ctl command example:**
 
-<code>
-nekaur [ags] [flag]
-</code>
+<code>nekaur [ags] [flag]</code>
