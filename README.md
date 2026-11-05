@@ -5,7 +5,10 @@
 > **Core Concept:** This AUR helper uses a declarative system for package management and configuration.
 
 >**config example:**
+
+<code>
 aur_package {
  "package": "version"
 }
+</code>
 
