@@ -12,7 +12,7 @@ aur_package {
 }
 </code>
 
->**Ctl command example:**
+**Ctl command example:**
 
 <code>
 nekaur [ags] [flag]
